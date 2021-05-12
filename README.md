@@ -11,3 +11,5 @@
 <a href="https://www.youtube.com/channel/UC4axSm6TUCaFudiLmupHdzQ">
   <img align="left" alt="Youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
+
+![views](https://komarev.com/ghpvc/?username=zeyad-mansour)
