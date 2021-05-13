@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zeyad</h1>
 
 <p align="center"> 
-  You can see my website <a href = "zeyadmansour.com"> here</a>. 
+  You can see my website <a href = "https://www.zeyadmansour.com"> here</a>. 
  <br>
   
 <a href="https://twitter.com/zeyad_sour">
