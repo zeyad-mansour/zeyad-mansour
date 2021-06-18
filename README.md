@@ -23,6 +23,9 @@ I'm currently working on learning data structures and algorithms alongside some 
   <img alt="Youtube" width="22px" hspace="5" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
 
+<a href="https://www.discord.com/users/534043020136284188">
+  <img alt="Discord" width="22px" hspace="5" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
 
 **[zeyadmansour.com](https://www.zeyadmansour.com/)**
 
