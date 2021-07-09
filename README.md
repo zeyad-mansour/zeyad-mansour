@@ -1,5 +1,5 @@
 
-### Hello, I'm [Zeyad Mansour](https://www.zeyadmansour.com)!
+### Hi, I'm [Zeyad Mansour](https://www.zeyadmansour.com)!
 
 I'm a high school student who is interested in machine learning among other topics within computer science.
 
