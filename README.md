@@ -3,7 +3,7 @@
 
 I'm a high school student who is interested in machine learning among other topics within computer science.
 
-I have experience in Python, Java, C, HTML, CSS, PHP, and JavaScript.
+I have experience in Python, Java, C++, HTML, CSS, PHP, and JavaScript.
 
 ### What I'm focusing on 👨‍💻
 
