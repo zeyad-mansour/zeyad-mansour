@@ -22,9 +22,7 @@ I'm currently working on learning data structures and algorithms alongside some 
 </p>
 
 
-
 ##  Contact 📱
-
 - Website: [zeyadmansour.com](https://zeyadmansour.com)
 - Discord: [xerox#6605](https://www.discord.com/users/534043020136284188)
 - Email: [zeyadmansourfwrd@gmail.com](mailto:zeyadmansourfwrd@gmail.com)
@@ -33,10 +31,8 @@ I'm currently working on learning data structures and algorithms alongside some 
   Vibing to 🎧 
 </h3>
 <p align="center">
- <img src="https://spotify-github-profile.vercel.app/api/view?uid=1b18hmmltrd0khw491l4rg0xl&cover_image=true&theme=natemoo-re"/>
+ <img src="https://spotify-github-profile.vercel.app/api/view?uid=1b18hmmltrd0khw491l4rg0xl&cover_image=true&theme=default"/>
   
-  
- 
 <p align='center'>
 <a href="https://twitter.com/zeyad_sour">
   <img alt="Twitter" width="35px" hspace="7" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -58,7 +54,6 @@ I'm currently working on learning data structures and algorithms alongside some 
    <p align="center">
 <img src="https://visitor-badge.glitch.me/badge?page_id=zeyad-mansour"/>
 </p>
-
 </p>
 
 
