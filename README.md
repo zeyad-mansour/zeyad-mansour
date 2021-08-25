@@ -26,19 +26,17 @@ I'm currently working on learning data structures and algorithms alongside some 
 ##  Contact 📱
 
 - Website: [zeyadmansour.com](https://zeyadmansour.com)
-- Discord: [xerox#6605](https://invite.gg/xdwolf)
-- Email: zeyadmansourfwrd@gmail.com
+- Discord: [xerox#6605](https://www.discord.com/users/534043020136284188)
+- Email: [zeyadmansourfwrd@gmail.com](mailto:zeyadmansourfwrd@gmail.com)
 
 <h3 align="center">
   Vibing to 🎧 
 </h3>
 <p align="center">
- <img src="https://spotify-github-profile.vercel.app/api/view?uid=1b18hmmltrd0khw491l4rg0xl&cover_image=true&theme=default"/>
+ <img src="https://spotify-github-profile.vercel.app/api/view?uid=1b18hmmltrd0khw491l4rg0xl&cover_image=true&theme=natemoo-re"/>
   
   
-  
-
-
+ 
 <p align='center'>
 <a href="https://twitter.com/zeyad_sour">
   <img alt="Twitter" width="35px" hspace="7" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
